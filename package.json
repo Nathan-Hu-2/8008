@@ -1,0 +1,40 @@
+{
+    "name": "8008",
+    "displayName": "8008",
+    "description": "VSCode Theme inspired by GMK 8008",
+    "version": "0.0.1",
+    "publisher": "Jejunum",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nathan-Hu-2/8008-Theme"
+    },
+    "keywords": [
+        "8008",
+        "dark theme",
+        "GMK",
+        "gmk",
+        "keyboard",
+        "dixiemech",
+        "pastel",
+        "grey",
+        "gray",
+        "pink",
+        "custom"
+    ],
+
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "8008",
+                "uiTheme": "vs-dark",
+                "path": "./themes/8008-color-theme.json"
+            }
+        ]
+    }
+}
