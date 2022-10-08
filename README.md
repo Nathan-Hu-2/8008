@@ -7,5 +7,3 @@ I was sitting there one day, trying to browse the theme market place for the per
 Hope there are others that also enjoy the theme! Perhaps it isn't perfect yet, but as I trial it I will update it to accommodate as many languages as possible!
 
 Regards my fellow theme and keyboard enthusiasts!
-
-Jejunum (thats me!) signing out!
